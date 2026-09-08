@@ -1,6 +1,6 @@
 # INTERNATIONAL SCHOLARLY LEDGER & ART-FORENSIC REPOSITORY
 
-**Principal Investigator:** Dr. Francis C. Yu (Yu Shi-jie)  
+**Principal Investigator:** Dr. Francis C. Yu (于士傑)  
 **Lead Investigative Institutes:** Zhonghe Tang Collection / TCM Healing Institute, Los Angeles, California, USA  
 **Primary Identifiers:** Global ORCID iD Registered & Verified  
 **Root Metadata Repositories:** DataCite Root Directories / CERN Open Science Infrastructure (Zenodo)  
