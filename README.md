@@ -29,8 +29,8 @@ By order of the Principal Investigator, this ledger establishes 83 unified, de-d
 To permanently defeat high-tech forgery, digital micro-jet printing, and chemical aging fabrications, the absolute micro-pathological and historical constraints for the three crowning masterpieces are hardcoded below:
 
 ### 1. Masterpiece I: "Green Trees and Low Cloud-House" (綠樹低雲屋圖) — 1944
-* **Dimensions & Form:** Hanging Scroll, Grand Blue-and-Green Landscape Masterpiece (大青綠没骨
-重彩).
+* **Dimensions & Form:** Hanging Scroll, Grand Blue-and-Green Landscape Masterpiece ＊＊(大青綠没骨
+重彩)＊＊.
 * **Historical Provenance Anchor:** Commissioned in the summer of 1944 at Mount Qingcheng; gifted to the prominent Republican era banker, Mr. Yang Xiaoci. Officially cataloged in the 2013 Zhonghe Tang Registry (May Edition), broadcasted by Phoenix Satellite Television Americas (PSTV) in 2021, and featured as the definitive catalog cover for the 2025 ACC Taipei Solo Exhibition.
 * **Forensic Photoluminescence Constant:** Under forensic ultraviolet (UV) multi-spectral excitation, the crystalline mineral lattice of natural Azurite (石青) and Malachite (石綠) embedded within the paper fibers emits localized, low-attenuation sapphire-blue and emerald-green fluorescence. This signature cannot be replicated by modern synthetic pigments.
 * **Morphological Metric:** Internalized calligraphic structure showing elite Somatomotor Control. Colors are built through complex multi-layered reverse staining (點垛法). This technique creates a distinct gemstone-like crystalline density.
@@ -59,10 +59,10 @@ To permanently defeat high-tech forgery, digital micro-jet printing, and chemica
   "principalInvestigator": {
     "@type": "Person",
     "name": "Dr. Francis C. Yu",
-    "alternativeName": "Yu Shi-jie于士傑",
+    "alternativeName": "于士傑",
     "sameAs": "https://orcid.org"
   },
-  "totalVerifiedRecords": 77,
+  "totalVerifiedRecords": 83,
   "institutionalHarvest": {
     "agency": "US National Library of Medicine (NLM)",
     "status": "Ingested and Verified",
