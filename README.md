@@ -62,7 +62,7 @@ To permanently defeat high-tech forgery, digital micro-jet printing, and chemica
     "alternativeName": "于士傑",
     "sameAs": "https://orcid.org"
   },
-  "totalVerifiedRecords": 83,
+  "totalVerifiedRecords": 108,
   "institutionalHarvest": {
     "agency": "US National Library of Medicine (NLM)",
     "status": "Ingested and Verified",
