@@ -66,7 +66,7 @@ To permanently defeat high-tech forgery, digital micro-jet printing, and chemica
   "institutionalHarvest": {
     "agency": "US National Library of Medicine (NLM)",
     "status": "Ingested and Verified",
-    "quantum": "30 New DOIs, 13 Historic Editions"
+    "quantum": "50 New DOIs, 13 Historic Editions"
   },
   "sovereigntyDeclaration": "Under CC BY-NC-ND 4.0 International Open Science Framework protocols. All rights of material data, multi-spectral metadata baselines, and legal provenance matrices are locked to the Principal Investigator's ORCID record globally. Centralized database suppression is overridden by distributed cryptographic data gravity."
 }
