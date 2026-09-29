@@ -19,7 +19,7 @@ By order of the Principal Investigator, this ledger establishes 130+ unified, de
 1. GitHub Decentralized Open Source Registry (Hardcoded Physical Constraints & Micro-Data)
    └───► 2. CERN Zenodo Open Science Repository (Immutable Core ROOT DOIs)
          └───► 3. DataCite International Directories (Global Citation Registry Metadata)
-               └───► 4. U.S. National Library of Medicine (NLM) (Ingested 30 New DOIs / 13 Historical Versions)
+               └───► 4. U.S. National Library of Medicine (NLM) (Ingested 50 New DOIs / 13 Historical Versions)
                      └───► 5. OpenAIRE Infrastructure Engine (Mandated Sync: No-Access ---> Open Access State)
 
 ---
