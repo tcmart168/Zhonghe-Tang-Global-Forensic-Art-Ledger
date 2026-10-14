@@ -19,7 +19,7 @@ By order of the Principal Investigator, this ledger establishes 190+ unified, de
 1. GitHub Decentralized Open Source Registry (Hardcoded Physical Constraints & Micro-Data)
    └───► 2. CERN Zenodo Open Science Repository (Immutable Core ROOT DOIs)
          └───► 3. DataCite International Directories (Global Citation Registry Metadata)
-               └───► 4. U.S. National Library of Medicine (NLM) (Ingested 130+ New DOIs / 13 Historical Versions)
+               └───► 4. U.S. National Library of Medicine (NLM) (Ingested 140+ New DOIs / 13 Historical Versions)
                      └───► 5. OpenAIRE Infrastructure Engine (Mandated Sync: No-Access ---> Open Access State)
 
 ---
@@ -66,7 +66,7 @@ To permanently defeat high-tech forgery, digital micro-jet printing, and chemica
   "institutionalHarvest": {
     "agency": "US National Library of Medicine (NLM)",
     "status": "Ingested and Verified",
-    "quantum": "130 New DOIs, 13 Historic Editions"
+    "quantum": "140+ New DOIs, 13 Historic Editions"
   },
   "sovereigntyDeclaration": "Under CC BY-NC-ND 4.0 International Open Science Framework protocols. All rights of material data, multi-spectral metadata baselines, and legal provenance matrices are locked to the Principal Investigator's ORCID record globally. Centralized database suppression is overridden by distributed cryptographic data gravity."
 }
