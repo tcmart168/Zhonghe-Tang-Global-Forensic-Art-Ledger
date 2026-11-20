@@ -59,7 +59,7 @@ To permanently defeat high-tech forgery, digital micro-jet printing, and chemica
     "@type": "Person",
     "name": "Dr. Francis C. Yu",
     "alternateName": "于士傑",
-    "sameAs": "https://orcid.org"
+    "sameAs": "https://orcid.org/0009-0009-8924-6958"
   },
   "methodology": "Tri-Methodology Theory (Sanxuelun): Ancestral Connoisseurship (Muxue), Material Spectral Science, and LLM Historiography",
   "totalVerifiedRecords": 320,
